@@ -2,11 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently working on transforming raw data into actionable insights, building dashboards, and crafting data-driven strategies that make an impact.<br>👯 I’m looking to collaborate on exciting analytics projects, data visualization designs, or leveraging predictive models to solve real-world challenges.<br>🤝 I’m looking for help with exploring advanced machine learning techniques, improving automation workflows, and gaining deeper expertise in big data tools.<br>🌱 I’m currently learning Machine Learning, Artificial Intelligence, and exploring how these technologies intersect with analytics to create innovative solutions.<br>💬 Ask me about data storytelling, choosing the right tools for analytics, or how to transition from messy spreadsheets to sleek dashboards.<br>⚡ Fun fact => The first true "data analyst" might have been Florence Nightingale, who used data visualization in the 1850s to save lives during the Crimean War!
 
-<img src="https://raw.githubusercontent.com/sanaurrehmanarain/sanaurrehmanarain/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanaurrehmanarain) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shani.altaf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanaurrehmanarain/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sana-ur-rehman-arain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sanaurrehman88) 
 
@@ -30,3 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=Sanaurrehmanarain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/sanaurrehmanarain/sanaurrehmanarain/output/snake.svg" alt="Snake animation" />
+
