@@ -1,53 +1,133 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on transforming raw data into actionable insights, building dashboards, and crafting data-driven strategies that make an impact.<br>👯 I’m looking to collaborate on exciting analytics projects, data visualization designs, or leveraging predictive models to solve real-world challenges.<br>🤝 I’m looking for help with exploring advanced machine learning techniques, improving automation workflows, and gaining deeper expertise in big data tools.<br>🌱 I’m currently learning Machine Learning, Artificial Intelligence, and exploring how these technologies intersect with analytics to create innovative solutions.<br>💬 Ask me about data storytelling, choosing the right tools for analytics, or how to transition from messy spreadsheets to sleek dashboards.<br>⚡ Fun fact => The first true "data analyst" might have been Florence Nightingale, who used data visualization in the 1850s to save lives during the Crimean War!
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sanaurrehmanarain) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shani.altaf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sanaurrehmanarain/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-ur-rehman-arain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sanaurrehman88) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=190&section=header&text=Sana%20Ur%20Rehman%20Arain&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Quantitative%20Finance&descAlignY=68&descSize=18&fontAlignY=38" width="100%"/>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A965F7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Exploring+AI+%C3%97+Quantitative+Finance;Building+one+clean+pipeline+at+a+time" alt="Typing SVG" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanaurrehmanarain&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaurrehmanarain&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaurrehmanarain&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sanaurrehmanarain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=Sanaurrehmanarain&color=A965F7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Sanaurrehmanarain?color=A965F7&style=flat-square&label=Followers)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sanaurrehmanarain&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sanaurrehmanarain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+
+🔭 **Currently working on:** turning raw data into actionable insight — and models into decisions.
+
+📈 **Currently exploring:** the intersection of Machine Learning and Quantitative Finance — deep hedging, volatility modeling, and market microstructure.
+
+👯 **Open to collaborating on:** analytics pipelines, predictive modeling, and quant/ML research projects.
+
+💬 **Ask me about:** data storytelling, Python vs. R, dashboard design, or why volatility models are secretly beautiful.
+
+⚡ **Fun fact:** the first "data analyst" may have been Florence Nightingale — she used data visualization in the 1850s to save lives.
+
+<br clear="right"/>
+
+## 🧭 Two Sides of the Same Dataset
+
+| 📊 As a Data Scientist | 📈 As a Quant Enthusiast |
+|:---|:---|
+| Turns messy data into clean pipelines | Turns market noise into signal |
+| Fluent in `pandas`, `ggplot2`, SQL joins | Fluent in Monte Carlo & Black-Scholes |
+| Believes in EDA before modeling | Believes in backtests before beliefs |
+| Dashboard therapist (Power BI / Tableau) | Risk-management realist |
+
+```js
+const sana = {
+  role: "Data Scientist · ML Engineer",
+  coffeeLevel: "charged",
+  focus: ["Predictive Modeling", "Quantitative Finance", "Data Storytelling"],
+  languages: ["Python", "R", "SQL"],
+  currentlyExploring: "AI × Quantitative Finance",
+  philosophy: "clean data in, honest insight out",
+};
+```
+---
+
+### `> under the hood.`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,sqlite,sklearn,tensorflow,pytorch,docker,aws,gcp,azure,git,github,githubactions&perline=8" />
+
+</div>
+
+**Data, Analytics & BI:**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+**Data Engineering & Cloud:**
+
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Workflow:**
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/tidyverse-1a162d?style=flat-square&logo=r&logoColor=white)
+
+---
+
+### 📌 Featured Project
+
+> #### 🗂️ [Data Science & Quantitative Finance Portfolio](https://github.com/Sanaurrehmanarain/sana-data-science-portfolio)
+> A single index of every project I've built — Deep Learning, Machine Learning, Quant Finance, SQL, and R — each linked to its own repo with full code and documentation. **Start here for the full picture.**
+
+---
+
+### `> git status.`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanaurrehmanarain&background=0D1117&border=0D1117&stroke=0D1117&ring=00D9FF&fire=FF9900&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FF9900&sideLabels=E2E2E2&dates=8B93A8&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaurrehmanarain&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4DA6&text_color=E2E2E2&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Sanaurrehmanarain&theme=tokyonight&no-frame=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### `> reach out.`
+
+<div align="center">
+
+💜 If you liked what you saw and love data, deadlines, and dashboards even half as much as I do, let's connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sana-ur-rehman-arain)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sanaurrehman88)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sana.arain.work@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Talk%20Data!&fontSize=30&fontColor=ffffff&animation=fadeIn&reversal=true" width="100%"/>
