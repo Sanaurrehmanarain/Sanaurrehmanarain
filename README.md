@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+<img align="right" src="animation.gif" alt="animation" width="500" />
 
 🔭 **Currently working on:** turning raw data into actionable insight — and models into decisions.
 
@@ -38,16 +38,8 @@
 | Believes in EDA before modeling | Believes in backtests before beliefs |
 | Dashboard therapist (Power BI / Tableau) | Risk-management realist |
 
-```js
-const sana = {
-  role: "Data Scientist · ML Engineer",
-  coffeeLevel: "charged",
-  focus: ["Predictive Modeling", "Quantitative Finance", "Data Storytelling"],
-  languages: ["Python", "R", "SQL"],
-  currentlyExploring: "AI × Quantitative Finance",
-  philosophy: "clean data in, honest insight out",
-};
-```
+![Sana Animation](sana.gif)
+
 ---
 
 ### `> under the hood.`
