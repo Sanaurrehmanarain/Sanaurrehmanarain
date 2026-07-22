@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="animation.gif" alt="animation" width="300" />
+<img align="right" src="animation.gif" alt="animation" width="500" />
 
 🔭 **Currently working on:** turning raw data into actionable insight — and models into decisions.
 
