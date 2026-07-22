@@ -25,7 +25,8 @@
 
 💬 **Ask me about:** data storytelling, Python vs. R, dashboard design, or why volatility models are secretly beautiful.
 
-⚡ **Fun fact:** the first "data analyst" may have been Florence Nightingale — she used data visualization in the 1850s to save lives.
+⚡ **Fun fact:** the first "data analyst" may have been Florence Nightingale\
+— she used data visualization in the 1850s to save lives.
 
 <br clear="right"/>
 
